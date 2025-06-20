@@ -4,8 +4,8 @@ def main():
     board = """\
 ....
 .K..
-....
-.Q.."""
+P...
+...."""
     checkmate(board)
 
 if __name__ == "__main__":
