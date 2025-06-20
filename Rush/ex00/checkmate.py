@@ -65,3 +65,4 @@ def checkmate(board: str):
         print("Success")
     else:
         print("Fail")
+        
